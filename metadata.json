@@ -1,0 +1,8 @@
+{
+  "name": "ignitia",
+  "description": "A Flutter-inspired attendance application for Odoo 12 that uses liveness detection to verify check-ins and check-outs, capturing user location as proof.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
